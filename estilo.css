@@ -1,0 +1,102 @@
+.fondo{
+	
+	width:100%;	height:100%;
+}
+.tit{
+
+background-color:#F4F312;
+	font-family:arial;
+	top:80px;
+	left:30%;
+	border-radius:15px; 
+}
+.e1{
+	background-color:#F4F312;
+	font-family:arial;
+	position:absolute;
+	top:600px;
+	left:400px;
+	height:30px;
+	width:30px;
+	border-radius:15px;
+	
+}
+.e1:hover {
+	background: url("petalos.jpg");
+	background-color:#F4F312;
+	font-family:arial;
+	position:absolute;
+	top:300px;
+	left:630px;
+	height:250px;
+	width:200px;
+	border-radius:15px;
+}
+.e2{
+	background-color:#11FCE5;
+	font-family:arial;
+	position:absolute;
+	top:450px;
+	left:300px;
+	height:30px;
+	width:30px;
+	border-radius:15px;
+	
+}
+.e2:hover {
+	background: url("gineceo.jpg");
+	background-color:#F4F312;
+	font-family:arial;
+	position:absolute;
+	top:300px;
+	left:470px;
+	height:90px;
+	width:180px;
+	border-radius:15px;
+}
+.e3{
+
+background-color:#F46DFF;
+	font-family:arial;
+	position:absolute;
+	top:450px;
+	left:360px;
+	height:30px;
+	width:30px;
+	border-radius:15px;
+	
+}
+.e3:hover {
+	background: url("androceo.jpg");
+	background-color:#F4F312;
+	font-family:arial;
+	position:absolute;
+	top:300px;
+	left:470px;
+	height:100px;
+	width:180px;
+	border-radius:15px;
+}
+.e4{
+
+background-color:#0BFA7A;
+	font-family:arial;
+	position:absolute;
+	top:460px;
+	left:580px;
+	height:30px;
+	width:30px;
+	border-radius:15px;
+	
+}
+.e4:hover {
+	background: url("androginoforo.jpg");
+	background-color:#F4F312;
+	font-family:arial;
+	position:absolute;
+	top:300px;
+	left:470px;
+	height:100px;
+	width:180px;
+	border-radius:15px;
+}
